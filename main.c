@@ -40,7 +40,7 @@ int main(int argc, char **argv)
 
   //Number of kernel repetitions
   u64 r = atoll(argv[2]);
-
+  printf("my seconde_commit");
   //Print header
   printf("%10s; %15s; %15s; %15s; %10s; %10s; %15s; %15s; %15s; %26s; %10s\n",
 	 "title",
